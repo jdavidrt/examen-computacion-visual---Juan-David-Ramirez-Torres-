@@ -29,7 +29,6 @@ examen-computacion-visual-Juan-David-Ramirez-Torres/
 ├── ejercicio_2_piramide_3d/
 │   ├── README.md                # Exercise 2 documentation
 │   ├── captura.png             # 3D scene screenshot
-│   └── texturas/               # Texture assets (if local)
 │
 ├── ejercicio_3_convolucion_1d/
 │   ├── convolucion.py          # Manual convolution implementation
